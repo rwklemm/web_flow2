@@ -1,4 +1,4 @@
 web_flow2
 =========
 
-I don't even like this and it's my own project - don't use it!
+this is the web flow project and it is great!
